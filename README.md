@@ -124,106 +124,7 @@
         alt="Partida en acción"
         width="600"
         style="margin-top: 20px"
-      />
-    </div>
-  </section>
-
-  <footer>
-    <p>Fan page no oficial de Valorant - Creado por un fan.</p>
-  </footer>
-</body>
-</html>
-styles.css
-css
-Copiar código
-body {
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #0f1923;
-  color: #ffffff;
-  margin: 0;
-  padding: 0;
-  font-size: 18px;
-  line-height: 1.6;
-}
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 40px 20px;
-}
-
-header {
-  background-color: #ff4655;
-  padding: 40px 20px;
-  text-align: center;
-}
-
-header h1 {
-  margin: 0;
-  font-size: 3.5rem;
-}
-
-nav {
-  margin-top: 15px;
-}
-
-nav a {
-  color: white;
-  margin: 0 20px;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 1.2rem;
-}
-
-section {
-  padding: 60px 0;
-  border-bottom: 1px solid #333;
-}
-
-h2 {
-  color: #ff4655;
-  font-size: 2.5rem;
-  margin-bottom: 20px;
-}
-
-ul {
-  list-style: none;
-  padding-left: 0;
-  font-size: 1.2rem;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  margin-top: 20px;
-}
-
-footer {
-  background-color: #111;
-  color: #888;
-  text-align: center;
-  padding: 40px;
-  font-size: 1rem;
-}
-script.js
-js
-Copiar código
-console.log("Bienvenido a la fan page de Valorant");
-2. Cómo subirlo a GitHub Pages
-Crea un repositorio nuevo en GitHub con cualquier nombre (ejemplo: valorant-web).
-
-Sube estos tres archivos (index.html, styles.css, script.js) a la raíz del repositorio.
-
-Ve a Settings > Pages y en la sección Source selecciona la rama main y la carpeta /root.
-
-Guarda y espera unos minutos.
-
-GitHub te dará una URL donde estará publicada tu web, algo así:
-
-arduino
-Copiar código
-https://TUUSUARIO.github.io/valorant-web/
-Si quieres, puedo ayudarte a generar un .zip con estos archivos listos para que subas directamente a GitHub. ¿Quieres?
+      
 
 
 
@@ -235,8 +136,3 @@ Si quieres, puedo ayudarte a generar un .zip con estos archivos listos para que 
 
 
 
-Herramientas
-
-
-
-ChatGPT puede cometer errores. Considera verificar la información i
