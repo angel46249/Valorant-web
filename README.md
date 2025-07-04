@@ -1,4 +1,13 @@
 # Valorant-web<!DOCTYPE html>
+<section id="agentes">
+  <div class="container">
+    <h2>Agentes Destacados</h2>
+    <ul>
+      <li><strong>Jett</strong> – Ágil y letal.</li>
+      ...
+    </ul>
+  </div>
+</section>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
